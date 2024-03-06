@@ -12,6 +12,14 @@ Intro on implementation costs
 
 [instrument](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/instrument.xlsx).
 
+[Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_Blank.xlsx).
+
+[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_WorkedExample.xlsx).
+
+[Cost-IS templates with examples of summary tables](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_Blank.xlsx).
+
+[Cost-IS templates with examples of summary tables- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_WorkedExample.xlsx).
+
 
 ## Development
 
