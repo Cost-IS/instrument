@@ -1,31 +1,68 @@
 ---
-title: "index"
+title: "Costing implementation strategies (Cost-IS) instrument"
 format: html
 ---
 
-## Implementation Costing Instrument
 
-Intro on implementation costs
+Cost-IS is an instrument for costing implementation strategies in the digital health setting. 
 
+Cost-IS's aim and scope is to collect data on the costs associated with implementation strategies for digital health innovations. The instrument provides a pragmatic and flexible approach that can be tailored to meet the needs of various projects, and may be useful for both planning and evaluation purposes. 
 
-## Download
-
-[instrument](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/instrument.xlsx).
-
-[Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_Blank.xlsx).
-
-[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_WorkedExample.xlsx).
-
-[Cost-IS templates with examples of summary tables](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_Blank.xlsx).
-
-[Cost-IS templates with examples of summary tables- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_WorkedExample.xlsx).
+Cost-IS aims to enable implementation costing which is important to support appropriate resourcing of implementation efforts and address the knowledge gap in implementation science research. Further piloting of Cost-IS is required to validate its feasibility and generalisability beyond the field of digital health.
 
 
-## Development
-
-Brief explanation
-
-Link to papers
 
 
-## Contact information
+# Cost-IS templates
+
+[Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_Blank.xlsx)
+
+[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_WorkedExample.xlsx)
+
+[Cost-IS templates with examples of summary tables](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_Blank.xlsx)
+
+[Cost-IS templates with examples of summary tables- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_WorkedExample.xlsx)
+
+
+#### Citing Cost-IS
+
+When referring to Cost-IS, we recommend using journal article citations rather than referring to this website. We recommend that you cite one of the below original publications.
+
+#### Usage of Cost-IS
+
+Cost-IS documents are distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+
+# Development of Cost-IS
+
+Cost-IS was developed iteratively across three phases. Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. Phase 2 consisted of qualitative semi-structured interviews that outlined current practices for capturing the costs associated with implementing digital health initiatives in hospital settings. Phase 3 development involved a modified electronic-Delphi (e-Delphi) process to generate a consensus on the core components and design of an implementation costing instrument.
+
+#### Phase 1 findings
+A prototype of the implementation costing instrument was first developed from findings from a literature review and qualitative interviews. The methods that have been previously used to cost implementation in digital health were unclear from the literature review. However, labour was consistently reported to be the largest implementation-related cost. The interviews found that staff time tracking was a commonly used approach to cost implementation. As a result, the prototype included an activity log and a template to capture labour. Other implementation-related costs reported in the literature included consumables, durable assets, and physical space. A separate template was included in the prototype to capture these costs. 
+
+#### Phase 2 findings
+The interview findings demonstrated that costing implementation was hindered by the perceived ill-defined boundaries of implementation and inconsistencies in terminology used across the disciplines of implementation science, health economics and digital health. The prototype therefore included a planning template to assist users in identifying implementation costs to allow for appropriate data collection. Appendices were included in the prototype to educate users on potential implementation costs and assist them in completing the planning template. The resulting prototype was used as stimulus material in the first round of the e-Delphi as seen in Additional File 2.
+
+#### Phase 3 findings
+Consensus was reached on the core components and design of the instrument from a panel of twelve experts in implementation science, health economic evaluations and/or digital health. Areas of non-consensus included the user’s level of implementation science knowledge, specificity to digital health and accessibility via digital formats.
+
+## Development papers
+Read more about the development of Cost-IS in the following papers
+
+[Phase 1](https://doi.org/10.1186%2Fs13012-023-01261-8)
+
+[Phase 2](https://www.researchsquare.com/article/rs-3828958/v1) Preprint
+
+Phase 3- COMING SOON
+
+## Future development
+
+Cost-IS is currently being evaluated to provide formative feedback for adaptions to and assisting future users of Cost-IS.
+
+In particular CostIS’s generalisability outside the context of digital health will be assessed.
+
+
+# Contact information
+
+Feel free to reach out via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
+
