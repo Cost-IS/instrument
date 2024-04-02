@@ -48,7 +48,7 @@ In the worked example of template 2A, all activities associated with the hypothe
 
 The worked example of template 2B  contains two non-labour resources used in the hypothetical implementation. Each resource is listed in the first column as listed in template 1, with its corresponding strategy in the next column.
 
-### Summary tables
+## Summary tables
 
 The worked example demonstrates how implementation costs can be summarised by role and implementation strategy.
 
