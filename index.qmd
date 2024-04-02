@@ -32,15 +32,6 @@ Summary tables can be created from the data in the completed templates in a mean
 [Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank.xlsx)
 
 
-#### Citing Cost-IS
-
-When referring to Cost-IS, we recommend using journal article citations rather than referring to this website. We recommend that you cite one of the below original publications.
-
-#### Usage of Cost-IS
-
-Cost-IS documents are distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
-
-
 
 # Worked example of Cost-IS
 ## Template 1
@@ -99,4 +90,13 @@ In particular CostIS’s generalisability outside the context of digital health 
 # Contact information
 
 Feel free to reach out via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
+
+
+#### Citing Cost-IS
+
+When referring to Cost-IS, we recommend using journal article citations rather than referring to this website. We recommend that you cite one of the below original publications.
+
+#### Usage of Cost-IS
+
+Cost-IS documents are distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 
