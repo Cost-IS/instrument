@@ -12,16 +12,26 @@ Cost-IS aims to enable implementation costing which is important to support appr
 
 
 
+Cost-IS comprises of three data collection templates: template 1, 2A, and 2B.
 
-# Cost-IS templates
+### Template 1: Planning 
+
+The purpose of template 1 is to help identify specific data items that need to be collected. This will allow for comprehensive and targeted data collection later in the costing instrument. 
+
+
+### Template 2A/B: Data collection
+
+The other two templates are used to collect the data necessary to quantify the implementation costs.The purpose of template 2A is to collect data on labour resources associated with the implementation strategies. The purpose of template 2B is to collect the cost data on non-labour resources associated with the implementation strategies. 
+
+### Summary tables
+
+Summary tables can be created from the data in the completed templates in a meaningful way as determined by the analyst. The templates were designed to collect data at varying levels of detail because of the wide range and adaptable nature of implementation projects. 
+
+## Download Cost-IS templates
 
 [Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_Blank.xlsx)
 
-[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_WorkedExample.xlsx)
-
 [Cost-IS templates with examples of summary tables](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_Blank.xlsx)
-
-[Cost-IS templates with examples of summary tables- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_WorkedExample.xlsx)
 
 
 #### Citing Cost-IS
@@ -33,15 +43,43 @@ When referring to Cost-IS, we recommend using journal article citations rather t
 Cost-IS documents are distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 
 
+
+# Worked example of Cost-IS
+## Template 1
+
+The worked example of template 1 includes four implementation strategies with associated activities and resources.
+
+
+## Template 2A: Data collection- labour
+
+In the worked example of template 2A, all activities associated with the hypothetical implementation were recorded. Each activity instance was given a specific index number because an activity occurred more than once. Similarly, a purpose was recorded for each activity to distinguish it from other similar activities. The implementation strategy related to the respective activity was documented in the same row. Personnel involved in the activity are documented. Each personnel type/role was recorded on a separate row, roles were distinguished by wage rate or title classification. For each activity, the number of personnel for each role was recorded. Finally, the time spent on the activity for that role was documented. The two final columns automatically calculate labour costs when the other columns are completed. The entries columns ‘Activity’, ‘Strategy’ and ‘Role’ are restricted by drop down menus containing what was listed in template 1. Template 1 can be completed iteratively as required by the project.
+
+
+## Template 2B: Data collection- non-labour
+
+The worked example of template 2B  contains two non-labour resources used in the hypothetical implementation. Each resource is listed in the first column as listed in template 1, with its corresponding strategy in the next column.
+
+### Summary tables
+
+The worked example demonstrates how implementation costs can be summarised by role and implementation strategy.
+
+## Download Cost-IS worked example
+
+[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_WorkedExample.xlsx)
+
+[Cost-IS templates with examples of summary tables- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_WorkedExample.xlsx)
+
+
+
 # Development of Cost-IS
 
 Cost-IS was developed iteratively across three phases. Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. Phase 2 consisted of qualitative semi-structured interviews that outlined current practices for capturing the costs associated with implementing digital health initiatives in hospital settings. Phase 3 development involved a modified electronic-Delphi (e-Delphi) process to generate a consensus on the core components and design of an implementation costing instrument.
 
 #### Phase 1 findings
-A prototype of the implementation costing instrument was first developed from findings from a literature review and qualitative interviews. The methods that have been previously used to cost implementation in digital health were unclear from the literature review. However, labour was consistently reported to be the largest implementation-related cost. The interviews found that staff time tracking was a commonly used approach to cost implementation. As a result, the prototype included an activity log and a template to capture labour. Other implementation-related costs reported in the literature included consumables, durable assets, and physical space. A separate template was included in the prototype to capture these costs. 
+A prototype of the implementation costing instrument was first developed from findings from a literature review and qualitative interviews. It was observed in the literature review that there was considerable inconsistency and ambiguity in methods used to cost digital health implementation strategies. However, labour was consistently reported to be the largest implementation-related cost. This was consistent with the views expressed during our prior qualitative interview study with stakeholders which indicated that staff time tracking was a commonly used approach to cost implementation. As a result, the initial prototype included an activity log and a template to capture labour. Other implementation-related costs reported in the literature included consumables, durable assets, and physical space. A separate template was included in the prototype to capture these costs. 
 
 #### Phase 2 findings
-The interview findings demonstrated that costing implementation was hindered by the perceived ill-defined boundaries of implementation and inconsistencies in terminology used across the disciplines of implementation science, health economics and digital health. The prototype therefore included a planning template to assist users in identifying implementation costs to allow for appropriate data collection. Appendices were included in the prototype to educate users on potential implementation costs and assist them in completing the planning template. The resulting prototype was used as stimulus material in the first round of the e-Delphi as seen in Additional File 2.
+The interview findings demonstrated that costing implementation was hindered by the perceived ill-defined boundaries of what constitutes implementation strategies and inconsistencies in terminology used across the disciplines of implementation science, health economics and digital health. The prototype therefore included a planning template to assist users in identifying implementation costs to allow for appropriate data collection. Appendices were included in the prototype with explanatory reference text for users on what could constitute potential implementation costs to assist them in completing the planning template. The resulting prototype was used as stimulus material in the first round of the e-Delphi.
 
 #### Phase 3 findings
 Consensus was reached on the core components and design of the instrument from a panel of twelve experts in implementation science, health economic evaluations and/or digital health. Areas of non-consensus included the user’s level of implementation science knowledge, specificity to digital health and accessibility via digital formats.
