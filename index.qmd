@@ -27,11 +27,9 @@ The other two templates are used to collect the data necessary to quantify the i
 
 Summary tables can be created from the data in the completed templates in a meaningful way as determined by the analyst. The templates were designed to collect data at varying levels of detail because of the wide range and adaptable nature of implementation projects. 
 
-## Download Cost-IS templates
+## Download
 
-[Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_Blank.xlsx)
-
-[Cost-IS templates with examples of summary tables](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_Blank.xlsx)
+[Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank.xlsx)
 
 
 #### Citing Cost-IS
@@ -63,11 +61,9 @@ The worked example of template 2B  contains two non-labour resources used in the
 
 The worked example demonstrates how implementation costs can be summarised by role and implementation strategy.
 
-## Download Cost-IS worked example
+## Download
 
-[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates_WorkedExample.xlsx)
-
-[Cost-IS templates with examples of summary tables- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_Templates+SummaryTableExamples_WorkedExample.xlsx)
+[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_WorkedExample.xlsx)
 
 
 
