@@ -84,7 +84,7 @@ Phase 3- COMING SOON
 
 Cost-IS is currently being evaluated to provide formative feedback for adaptions to and assisting future users of Cost-IS.
 
-In particular CostIS’s generalisability outside the context of digital health will be assessed.
+In particular Cost-IS’s generalisability outside the context of digital health will be assessed.
 
 
 # Contact information
@@ -92,11 +92,8 @@ In particular CostIS’s generalisability outside the context of digital health 
 Feel free to reach out via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
 
 
-#### Citing Cost-IS
 
-When referring to Cost-IS, we recommend using journal article citations rather than referring to this website. We recommend that you cite one of the below original publications.
 
-#### Usage of Cost-IS
 
-Cost-IS documents are distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+*This work is openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
