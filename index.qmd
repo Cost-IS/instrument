@@ -1,6 +1,7 @@
 ---
 title: "Costing implementation strategies (Cost-IS) instrument"
 format: html
+include-in-header: Cost-IS_google_analytics.html
 ---
 
 
