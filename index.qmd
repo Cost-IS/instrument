@@ -30,7 +30,7 @@ The level of detail to include depends on the project. We found that the listed 
 
 Template 3 enables the valuation of the identified resources. This is a separate template for clarity and ease of update. Template 3 informs Template 2’s columns ‘hourly wage rate’ and ‘resource- category’.
 
-###Cost analysis
+### Cost analysis
 
 Subsequent analysis from the data collected in the completed templates should be conducted in a meaningful way to the project as determined by the analyst. The templates were designed to collect data at varying levels of detail because of the wide range and adaptable nature of implementation projects. 
 
@@ -39,7 +39,7 @@ Subsequent analysis from the data collected in the completed templates should be
 
 [Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank_V3.xlsx)
 
-[Cost-IS user guide](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.xlsx)
+[Cost-IS user guide](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.docx)
 
 
 
