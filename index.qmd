@@ -7,30 +7,39 @@ include-in-header: Cost-IS_google_analytics.html
 
 Cost-IS is an instrument for costing implementation strategies in the digital health setting. 
 
-Cost-IS's aim and scope is to collect data on the costs associated with implementation strategies for digital health innovations. The instrument provides a pragmatic and flexible approach that can be tailored to meet the needs of various projects, and may be useful for both planning and evaluation purposes. 
+Cost-IS's aim and scope is to collect data on the costs associated with implementation strategies for digital health innovations. The instrument provides a pragmatic and flexible approach that can be tailored to meet the needs of various projects. 
 
-Cost-IS aims to enable implementation costing which is important to support appropriate resourcing of implementation efforts and address the knowledge gap in implementation science research. Further piloting of Cost-IS is required to validate its feasibility and generalisability beyond the field of digital health.
+Reliable implementation cost estimations produced from this standardised tool will inform appropriate resourcing for implementation strategies resulting in a greater likelihood of implementation success. As well as providing decision makers with reliable information from economic evaluations of health care innovations that account for the full extent of costs. It is anticipated that the transdisciplinary nature of Cost-IS will contribute to an expanded knowledge of implementation costs through improved collaboration between implementation scientists and health economists. Further piloting of Cost-IS is required for validation.
 
 
-
-Cost-IS comprises of three data collection templates: template 1, 2A, and 2B.
+Cost-IS comprises of three data collection templates: template 1, 2, and 3.
 
 ### Template 1: Planning 
 
 The purpose of template 1 is to help identify specific data items that need to be collected. This will allow for comprehensive and targeted data collection later in the costing instrument. 
 
+A project's implementation strategies are listed under the first column. For each strategy, the activities and resources (labour and non-labour) required to operationalise the strategy are listed under the relevant columns.
 
-### Template 2A/B: Data collection
+### Template 2: Data collection
 
-The other two templates are used to collect the data necessary to quantify the implementation costs.The purpose of template 2A is to collect data on labour resources associated with the implementation strategies. The purpose of template 2B is to collect the cost data on non-labour resources associated with the implementation strategies. 
+Template 2 is used to collect the data necessary to quantify the cost of resources associated with the implementation strategies.
 
-### Summary tables
+The level of detail to include depends on the project. We found that the listed columns in the template provided sufficient granularity for the subsequent analysis. The template is flexible and can be adjusted to meet the needs of your project, by altering the columns and their content. 
 
-Summary tables can be created from the data in the completed templates in a meaningful way as determined by the analyst. The templates were designed to collect data at varying levels of detail because of the wide range and adaptable nature of implementation projects. 
+### Template 3: Resource valuation
+
+Template 3 enables the valuation of the identified resources. This is a separate template for clarity and ease of update. Template 3 informs Template 2’s columns ‘hourly wage rate’ and ‘resource- category’.
+
+###Cost analysis
+
+Subsequent analysis from the data collected in the completed templates should be conducted in a meaningful way to the project as determined by the analyst. The templates were designed to collect data at varying levels of detail because of the wide range and adaptable nature of implementation projects. 
+
 
 ## Download
 
-[Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank.xlsx)
+[Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank_V3.xlsx)
+
+[Cost-IS user guide](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.xlsx)
 
 
 
@@ -55,7 +64,7 @@ The worked example demonstrates how implementation costs can be summarised by ro
 
 ## Download
 
-[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_WorkedExample.xlsx)
+[Cost-IS templates- worked example](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_WorkedExample_V3.xlsx)
 
 
 
@@ -72,6 +81,9 @@ The interview findings demonstrated that costing implementation was hindered by 
 #### Phase 3 findings
 Consensus was reached on the core components and design of the instrument from a panel of twelve experts in implementation science, health economic evaluations and/or digital health. Areas of non-consensus included the user’s level of implementation science knowledge, specificity to digital health and accessibility via digital formats.
 
+#### Phase 4 findings
+Cost-IS was found to be a flexible instrument that can be tailored to meet the requirements of a range of implementation projects. The Cost-IS instrument enabled comparisons of cost estimates of implementation strategies between three real-world implementation case studies. Labour was the majority of implementation costs. Implementation cost findings provided value for reporting or evaluating, should be customised to project context, and include contextual and analysis information. Adaptions to Cost-IS during the costing process included improved data capture granularity, meaningful categorisation, and enhanced flexibility for analysis.
+
 ## Development papers
 Read more about the development of Cost-IS in the following papers
 
@@ -81,12 +93,13 @@ Read more about the development of Cost-IS in the following papers
 
 [Phase 3](https://www.researchsquare.com/article/rs-4229774/v1) Preprint
 
+Phase 4 COMING SOON
+
 ## Future development
 
-Cost-IS is currently being evaluated to provide formative feedback for adaptions to and assisting future users of Cost-IS.
+Cost-IS requires further validation including applying Cost-IS from the beginning of new projects to guide prospective collection of implementation costs. Prospective data collection may allow more comprehensive and accurate data to be collected throughout the project and may reduce the reliance on informed assumptions and recall. 
 
-In particular Cost-IS’s generalisability outside the context of digital health will be assessed.
-
+Investigation into incorporating contextual information with implementation cost estimates will improve Cost-IS and was a suggestion from Phase 4. The inclusion of contextual information will improve transparency of implementation cost estimates.
 
 # Contact information
 
