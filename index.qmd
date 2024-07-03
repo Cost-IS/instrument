@@ -93,6 +93,6 @@ In particular Cost-IS’s generalisability outside the context of digital health
 Feel free to reach out via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
 
 
+*Please cite the relevant journal article when referring to Cost-IS. We recommend this [article](https://www.researchsquare.com/article/rs-4229774/v1).*
 
 *This work is openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
-
