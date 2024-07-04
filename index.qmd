@@ -62,7 +62,7 @@ A worked example of Cost-IS is provided below which may assist future users of C
 
 [Cost-IS user guide](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.docx)
 
-[Cost-IS templates- completed collective case study](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/All_CaseStudies_Cost-IS_V1.xlsx)
+[Cost-IS completed templates-  collective case study](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/All_CaseStudies_Cost-IS_V1.xlsx)
 
 ### Worked example explained by template
 
@@ -111,7 +111,7 @@ The worked example demonstrates how implementation costs can be summarised by re
 
 # Development
 
-Cost-IS was developed iteratively across four phases. 
+###### Cost-IS was developed iteratively across four phases. 
 
 * Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. 
 
