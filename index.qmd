@@ -22,7 +22,7 @@ Reliable implementation cost estimations produced from this standardised tool wi
 
 Cost-IS comprises of three data collection templates: template 1, 2, and 3.
 
-**[Downloadable Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank_V4xlsx)**
+**[Downloadable Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank_V4.xlsx)**
 
 ::: {.nav-pills}
 ::: {.panel-tabset}
@@ -54,7 +54,7 @@ Cost-IS is a data collection tool. Subsequent analysis from the data collected i
 
 # Worked example
 
-A worked example of Cost-IS is provided below which may assist future users of Cost-IS. An additional user guide was produced as a result of applying Cost-IS to three real-world implementation projects as case studies (*manuscript coming soon*). The case studies are provided
+A worked example of Cost-IS is provided below which may assist future users of Cost-IS. An additional user guide was produced as a result of applying Cost-IS to three real-world implementation projects as case studies (*manuscript coming soon*). The completed Cost-IS templates from the collective case study are provided as another example that may assist future users.
 
 ### Download
 
@@ -62,6 +62,7 @@ A worked example of Cost-IS is provided below which may assist future users of C
 
 [Cost-IS user guide](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.docx)
 
+[Cost-IS templates- completed collective case study](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/All_CaseStudies_Cost-IS_V1.xlsx)
 
 ### Worked example explained by template
 
@@ -107,18 +108,19 @@ The worked example demonstrates how implementation costs can be summarised by re
 :::
 :::
 
-## Case study examples
-
-[Cost-IS templates- case study A](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_WorkedExample_V4.xlsx)
-
-[Cost-IS templates- case study B](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_WorkedExample_V4.xlsx)
-
-[Cost-IS templates- case study C](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_WorkedExample_V4.xlsx)
-
 
 # Development
 
-Cost-IS was developed iteratively across four phases. Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. Phase 2 consisted of qualitative semi-structured interviews that outlined current practices for capturing the costs associated with implementing digital health initiatives in hospital settings. Phase 3 development involved a modified electronic-Delphi (e-Delphi) process to generate a consensus on the core components and design of an implementation costing instrument. In Phase 4 the developed Cost-IS was applied to three real-world implementation projects in a collective case study.
+Cost-IS was developed iteratively across four phases. 
+
+* Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. 
+
+* Phase 2 consisted of qualitative semi-structured interviews that outlined current practices for capturing the costs associated with implementing digital health initiatives in hospital settings. 
+
+* Phase 3 development involved a modified electronic-Delphi (e-Delphi) process to generate a consensus on the core components and design of an implementation costing instrument. 
+
+* In Phase 4 the developed Cost-IS was applied to three real-world implementation projects in a collective case study.
+
 
 ::: {.nav-pills}
 ::: {.panel-tabset}
