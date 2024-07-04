@@ -22,7 +22,7 @@ Reliable implementation cost estimations produced from this standardised tool wi
 
 Cost-IS comprises of three data collection templates: template 1, 2, and 3.
 
-**[Downloadable Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank_V3.xlsx)**
+**[Downloadable Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank_V4xlsx)**
 
 ::: {.nav-pills}
 ::: {.panel-tabset}
@@ -98,7 +98,11 @@ The worked example contains two non-labour resources used in the hypothetical im
 
 ## Analysis example
 
-The worked example demonstrates how implementation costs can be summarised by role and implementation strategy
+The worked example demonstrates how implementation costs can be summarised by resource and implementation strategy. An example of how implementation cost findings may be presented are below.
+
+![ ](assets/Fig_Cost_Labour_WorkedExample.png)
+
+![ ](assets/Fig_Cost_Strategies_WorkedExample.png)
 
 :::
 :::
