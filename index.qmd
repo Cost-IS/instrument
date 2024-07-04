@@ -4,15 +4,22 @@ format: html
 include-in-header: Cost-IS_google_analytics.html
 ---
 
+::: {.nav-pills}
+::: {.panel-tabset}
 
-Cost-IS is an instrument for costing implementation strategies in the digital health setting. 
+# About
+Cost-IS is an instrument for costing implementation strategies in the healthcare setting. 
 
-Cost-IS's aim and scope is to collect data on the costs associated with implementation strategies for digital health innovations. The instrument provides a pragmatic and flexible approach that can be tailored to meet the needs of various projects. 
+Cost-IS's aim and scope is to collect data on the costs associated with implementation strategies for healthcare interventions. The instrument provides a pragmatic and flexible approach that can be tailored to meet the needs of various projects. 
 
 Reliable implementation cost estimations produced from this standardised tool will inform appropriate resourcing for implementation strategies resulting in a greater likelihood of implementation success. As well as providing decision makers with reliable information from economic evaluations of health care innovations that account for the full extent of costs. It is anticipated that the transdisciplinary nature of Cost-IS will contribute to an expanded knowledge of implementation costs through improved collaboration between implementation scientists and health economists. Further piloting of Cost-IS is required for validation.
 
+### Cost-IS Templates
 
 Cost-IS comprises of three data collection templates: template 1, 2, and 3.
+
+::: {.nav-pills}
+::: {.panel-tabset}
 
 ### Template 1: Planning 
 
@@ -30,20 +37,23 @@ The level of detail to include depends on the project. We found that the listed 
 
 Template 3 enables the valuation of the identified resources. This is a separate template for clarity and ease of update. Template 3 informs Template 2’s columns ‘hourly wage rate’ and ‘resource- category’.
 
-### Cost analysis
+:::
+:::
 
-Subsequent analysis from the data collected in the completed templates should be conducted in a meaningful way to the project as determined by the analyst. The templates were designed to collect data at varying levels of detail because of the wide range and adaptable nature of implementation projects. 
+### Analysis
 
+Cost-IS is a data collection tool. Subsequent analysis from the data collected in the completed templates should be conducted in a meaningful way to the project as determined by the analyst. The templates were designed to collect data at varying levels of detail because of the wide range of implementation projects. 
 
 ## Download
 
 [Cost-IS templates](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/Cost-IS_TemplatesBlank_V3.xlsx)
 
-[Cost-IS user guide](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.docx)
 
 
+# Worked example
 
-# Worked example of Cost-IS
+A worked example of Cost-IS is provided below which may assist future users. An additional user guide was produced as a result of applying Cost-IS to three real-world implementation projects as case studies (*manuscript coming soon*). Download the [Cost-IS user guide here ](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/AF_3_Cost-IS_UserGuide_V0.docx).
+
 ## Template 1
 
 The worked example of template 1 includes four implementation strategies with associated activities and resources.
@@ -68,21 +78,37 @@ The worked example demonstrates how implementation costs can be summarised by ro
 
 
 
-# Development of Cost-IS
+# Development
 
-Cost-IS was developed iteratively across three phases. Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. Phase 2 consisted of qualitative semi-structured interviews that outlined current practices for capturing the costs associated with implementing digital health initiatives in hospital settings. Phase 3 development involved a modified electronic-Delphi (e-Delphi) process to generate a consensus on the core components and design of an implementation costing instrument.
+Cost-IS was developed iteratively across four phases. Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. Phase 2 consisted of qualitative semi-structured interviews that outlined current practices for capturing the costs associated with implementing digital health initiatives in hospital settings. Phase 3 development involved a modified electronic-Delphi (e-Delphi) process to generate a consensus on the core components and design of an implementation costing instrument. In Phase 4 the developed Cost-IS was applied to three real-world implementation projects in a collective case study.
 
-#### Phase 1 findings
+::: {.nav-pills}
+::: {.panel-tabset}
+
+## Phase 1 findings
+### Systematic review
 A prototype of the implementation costing instrument was first developed from findings from a literature review and qualitative interviews. It was observed in the literature review that there was considerable inconsistency and ambiguity in methods used to cost digital health implementation strategies. However, labour was consistently reported to be the largest implementation-related cost. This was consistent with the views expressed during our prior qualitative interview study with stakeholders which indicated that staff time tracking was a commonly used approach to cost implementation. As a result, the initial prototype included an activity log and a template to capture labour. Other implementation-related costs reported in the literature included consumables, durable assets, and physical space. A separate template was included in the prototype to capture these costs. 
 
-#### Phase 2 findings
+## Phase 2 findings
+### Qualitative interviews
 The interview findings demonstrated that costing implementation was hindered by the perceived ill-defined boundaries of what constitutes implementation strategies and inconsistencies in terminology used across the disciplines of implementation science, health economics and digital health. The prototype therefore included a planning template to assist users in identifying implementation costs to allow for appropriate data collection. Appendices were included in the prototype with explanatory reference text for users on what could constitute potential implementation costs to assist them in completing the planning template. The resulting prototype was used as stimulus material in the first round of the e-Delphi.
 
-#### Phase 3 findings
+## Phase 3 findings
+### Modified e-Delphi process
 Consensus was reached on the core components and design of the instrument from a panel of twelve experts in implementation science, health economic evaluations and/or digital health. Areas of non-consensus included the user’s level of implementation science knowledge, specificity to digital health and accessibility via digital formats.
 
-#### Phase 4 findings
+## Phase 4 findings
+### Collective case study
 Cost-IS was found to be a flexible instrument that can be tailored to meet the requirements of a range of implementation projects. The Cost-IS instrument enabled comparisons of cost estimates of implementation strategies between three real-world implementation case studies. Labour was the majority of implementation costs. Implementation cost findings provided value for reporting or evaluating, should be customised to project context, and include contextual and analysis information. Adaptions to Cost-IS during the costing process included improved data capture granularity, meaningful categorisation, and enhanced flexibility for analysis.
+
+## Future development
+
+Cost-IS requires further validation including applying Cost-IS from the beginning of new projects to guide prospective collection of implementation costs. Prospective data collection may allow more comprehensive and accurate data to be collected throughout the project and may reduce the reliance on informed assumptions and recall. 
+
+Investigation into incorporating contextual information with implementation cost estimates will improve Cost-IS and was a suggestion from Phase 4. The inclusion of contextual information will improve transparency of implementation cost estimates.
+
+:::
+:::
 
 ## Development papers
 Read more about the development of Cost-IS in the following papers
@@ -95,16 +121,13 @@ Read more about the development of Cost-IS in the following papers
 
 Phase 4 COMING SOON
 
-## Future development
 
-Cost-IS requires further validation including applying Cost-IS from the beginning of new projects to guide prospective collection of implementation costs. Prospective data collection may allow more comprehensive and accurate data to be collected throughout the project and may reduce the reliance on informed assumptions and recall. 
+# Contact
 
-Investigation into incorporating contextual information with implementation cost estimates will improve Cost-IS and was a suggestion from Phase 4. The inclusion of contextual information will improve transparency of implementation cost estimates.
+Feel free to reach out to Thomasina via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
 
-# Contact information
-
-Feel free to reach out via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
-
+:::
+:::
 
 *Please cite the relevant journal article when referring to Cost-IS. We recommend this [article](https://www.researchsquare.com/article/rs-4229774/v1).*
 
