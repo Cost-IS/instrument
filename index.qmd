@@ -3,8 +3,8 @@ title: "Costing implementation strategies (Cost-IS)"
 format: 
   html:
       theme:
-        dark: darkly
         light: brightly
+        dark: darkly
 include-in-header: Cost-IS_google_analytics.html
 ---
 
