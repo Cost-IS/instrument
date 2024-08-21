@@ -167,6 +167,22 @@ Investigation into incorporating contextual information with implementation cost
 
 Feel free to reach out to Thomasina via [email](mailto:thomasina.donovan@hdr.qut.edu.au)
 
+
+# ISRW24
+
+The following information is provided for the participants at the [Implementation Science in the Real World 2024](https://event.fourwaves.com/isrw24/pages)
+
+
+## ISRW24 Materials
+
+[Activity sheet](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/ISRW_Activity.docx)
+
+[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106416) to paper for activity
+
+[Activity answers and Cost-IS](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/ISRW_Activity_Answers_and_Cost-IS_v1.xlsx)
+
+[ISRW Cost-IS slides](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/ISRW_Cost-IS_Workshop_Thommi_v3.0.pptx)
+
 :::
 :::
 
