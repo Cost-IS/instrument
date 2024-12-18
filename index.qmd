@@ -111,7 +111,7 @@ The worked example demonstrates how implementation costs can be summarised by re
 
 # Development
 
-###### Cost-IS was developed iteratively across four phases. 
+##### Cost-IS was developed iteratively across four phases. 
 
 * Phase 1 involved a systematic literature review to identify the nature of implementation costs and the methods used to measure and value these costs, within the context of hospital-based clinical decision support systems initiatives. 
 
@@ -162,11 +162,49 @@ Cost-IS requires further validation including applying Cost-IS from the beginnin
 Investigation into incorporating contextual information with implementation cost estimates will improve Cost-IS and was a suggestion from Phase 4. The inclusion of contextual information will improve transparency of implementation cost estimates.
 
 
+# Resource
+
+Below is a list of resources that I find helpful when costing implementation.
+
+## Implementation Science Costing Guidebook
+
+The Dissemination & Implementation Science Program team at University of Colorado have developed a useful Costing Guidebook for Implementation Scientists. This resource is free for use and is intended for Implementation Scientists who are attempting to conduct a cost assessment on their own projects.
+
+[Implementation Science Costing Guidebook](https://medschool.cuanschutz.edu/accords/cores-and-programs/dissemination-implementation-science-program/implementation-science-costing-guidebook)
+
+
+## Costing implementation seminar
+
+The Implementation Science Academy at the Sydney Health Partners have several implementation science resources including insightful seminars. In Oct 2024, Dr Marina Pinheiro delivered a helpful seminar on economic evaluations alongside implementation studies. This seminar provides a great explanation of key concepts and common barriers to conducting costing studies alongside implementation studies. 
+
+Please note only members can access the seminar, but membership is free.
+
+[Economic Evaluation Alongside Implementation Studies](https://implementationscience.com.au/resource/economic-evaluation-alongside-implementation-studies/)
+
+
 
 # Contact
 
+## Email contact
+
 Feel free to reach out to Thomasina via [email](mailto:thomasina.donovan@qut.edu.au)
 
+
+## Drop-in sessions
+
+Virtual monthly drop-in sessions are available from 2025. 
+
+On the **first Wednesday of every month**, Thomasina will be available for any questions relating to Cost-IS or costing implementation generally. 
+
+The first drop-in session will be January 8th 2025.
+
+#### Zoom details
+
+**Link:** [click here](https://qut.zoom.us/j/85767673480?pwd=pssGgPHiZaFqICpahr4eMu5i3NawD2.1&from=addon)
+
+**Meeting ID:** 857 6767 3480
+
+**Passcode:** 601644
 
 
 :::
