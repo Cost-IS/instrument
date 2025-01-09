@@ -11,14 +11,11 @@ include-in-header: Cost-IS_google_analytics.html
 ::: {.nav-pills}
 ::: {.panel-tabset}
 
-# About
+# Cost-IS Templates
+
 Cost-IS is an instrument for costing implementation strategies in the healthcare setting. 
 
 Cost-IS's aim and scope is to collect data on the costs associated with implementation strategies for healthcare interventions. The instrument provides a pragmatic and flexible approach that can be tailored to meet the needs of various projects. 
-
-Reliable implementation cost estimations produced from this standardised tool will inform appropriate resourcing for implementation strategies resulting in a greater likelihood of implementation success. As well as providing decision makers with reliable information from economic evaluations of health care innovations that account for the full extent of costs. It is anticipated that the transdisciplinary nature of Cost-IS will contribute to an expanded knowledge of implementation costs through improved collaboration between implementation scientists and health economists. Further piloting of Cost-IS is required for validation.
-
-### Cost-IS Templates
 
 Cost-IS comprises of three data collection templates: template 1, 2, and 3.
 
@@ -45,6 +42,15 @@ Template 3 enables the valuation of the identified resources. This is a separate
 
 :::
 :::
+
+
+# About
+Cost-IS is an instrument for costing implementation strategies in the healthcare setting. 
+
+Cost-IS's aim and scope is to collect data on the costs associated with implementation strategies for healthcare interventions. The instrument provides a pragmatic and flexible approach that can be tailored to meet the needs of various projects. 
+
+Reliable implementation cost estimations produced from this standardised tool will inform appropriate resourcing for implementation strategies resulting in a greater likelihood of implementation success. As well as providing decision makers with reliable information from economic evaluations of health care innovations that account for the full extent of costs. It is anticipated that the transdisciplinary nature of Cost-IS will contribute to an expanded knowledge of implementation costs through improved collaboration between implementation scientists and health economists. Further piloting of Cost-IS is required for validation.
+
 
 ### Analysis
 
@@ -109,7 +115,7 @@ The worked example demonstrates how implementation costs can be summarised by re
 :::
 
 
-# Development
+# Cost-IS Development
 
 ##### Cost-IS was developed iteratively across four phases. 
 
@@ -162,7 +168,7 @@ Cost-IS requires further validation including applying Cost-IS from the beginnin
 Investigation into incorporating contextual information with implementation cost estimates will improve Cost-IS and was a suggestion from Phase 4. The inclusion of contextual information will improve transparency of implementation cost estimates.
 
 
-# Resource
+# Other useful resources
 
 Below is a list of resources that I find helpful when costing implementation.
 
