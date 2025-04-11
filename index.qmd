@@ -215,6 +215,6 @@ On the **first Wednesday of every month from 10am-11am (Brisbane, AEST)**, Thoma
 :::
 :::
 
-*Please cite the relevant journal article when referring to Cost-IS. We recommend this [article](https://www.researchsquare.com/article/rs-4229774/v1).*
+*Please cite the relevant journal article when referring to Cost-IS. We recommend this [article](https://doi.org/10.1186/s13012-025-01423-w).*
 
 *This work is openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
