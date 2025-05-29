@@ -176,7 +176,7 @@ Below is a list of resources that I find helpful when costing implementation.
 
 The Dissemination & Implementation Science Program team at University of Colorado have developed a useful Costing Guidebook for Implementation Scientists. This resource is free for use and is intended for Implementation Scientists who are attempting to conduct a cost assessment on their own projects.
 
-[Implementation Science Costing Guidebook](https://medschool.cuanschutz.edu/accords/cores-and-programs/dissemination-implementation-science-program/implementation-science-costing-guidebook)
+[Implementation Science Costing Guidebook link](https://medschool.cuanschutz.edu/accords/cores-and-programs/dissemination-implementation-science-program/implementation-science-costing-guidebook)
 
 
 ## Costing implementation seminar
@@ -185,8 +185,14 @@ The Implementation Science Academy at the Sydney Health Partners have several im
 
 Please note only members can access the seminar, but membership is free.
 
-[Economic Evaluation Alongside Implementation Studies](https://implementationscience.com.au/resource/economic-evaluation-alongside-implementation-studies/)
+[Economic Evaluation Alongside Implementation Studies presentation](https://implementationscience.com.au/resource/economic-evaluation-alongside-implementation-studies/)
 
+
+## Understanding Implementation Costs to Improve Equitable Access to Care
+
+In this presentation Dr. Lisa Saldana does a great job of explaining what implementation costs are and why they're important. She also provides a brief demonstration of the [Cost of Implementing New Strategies (COINS)](https://doi.org/10.1016/j.childyouth.2013.10.006) tool she created. She highlights how implementation costs can interfere with the ability for equitable implementation.
+
+[Link to presentation](https://www.youtube.com/watch?v=KK-IVghteJQ)
 
 
 # Contact
