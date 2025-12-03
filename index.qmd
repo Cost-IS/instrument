@@ -43,6 +43,17 @@ Template 3 enables the valuation of the identified resources. This is a separate
 :::
 :::
 
+**Watch the ImplementEcon webinar** below to hear me talk about:
+
+*	why it’s important to cost implementation
+*	how the Cost-IS tool was developed 
+* how Cost-IS supported costing the implementation strategies of a trial
+* potential implications of costing implementation
+
+
+{{< video https://youtu.be/BHd1ARYBTnI?si=x-DV6z2tGfifTwZ9 >}}
+
+
 
 # About
 Cost-IS is an instrument for costing implementation strategies in the healthcare setting. 
@@ -178,7 +189,7 @@ The Dissemination & Implementation Science Program team at University of Colorad
 
 [Download pdf](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/a-costing-guidebook-for-implementation-scientists-v-9-21-2023.pdf)
 
-[visit webpage](https://medschool.cuanschutz.edu/accords/cores-and-programs/dissemination-implementation-core/implementation-science-costing-guidebook)
+[Visit webpage](https://medschool.cuanschutz.edu/accords/cores-and-programs/dissemination-implementation-core/implementation-science-costing-guidebook)
 
 
 ## Costing implementation seminar
