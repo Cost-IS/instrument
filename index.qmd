@@ -176,7 +176,9 @@ Below is a list of resources that I find helpful when costing implementation.
 
 The Dissemination & Implementation Science Program team at University of Colorado have developed a useful Costing Guidebook for Implementation Scientists. This resource is free for use and is intended for Implementation Scientists who are attempting to conduct a cost assessment on their own projects.
 
-[Implementation Science Costing Guidebook link](https://medschool.cuanschutz.edu/accords/cores-and-programs/dissemination-implementation-science-program/implementation-science-costing-guidebook)
+[Download pdf](https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/a-costing-guidebook-for-implementation-scientists-v-9-21-2023.pdf)
+
+[visit webpage](https://medschool.cuanschutz.edu/accords/cores-and-programs/dissemination-implementation-core/implementation-science-costing-guidebook)
 
 
 ## Costing implementation seminar
