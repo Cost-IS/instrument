@@ -43,7 +43,7 @@ Template 3 enables the valuation of the identified resources. This is a separate
 :::
 :::
 
-**Watch the ImplementEcon webinar** below to hear me talk about:
+**Watch the [ImplementEcon](https://arc-w.nihr.ac.uk/research-and-implementation/implement-econ/) webinar** below to hear me talk about:
 
 *	why it’s important to cost implementation
 *	how the Cost-IS tool was developed 
