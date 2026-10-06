@@ -168,7 +168,7 @@ Read more about the development of Cost-IS in the following papers
 
 [Phase 2](https://doi.org/10.1186/s43058-024-00648-y)
 
-[Phase 3](https://rdcu.be/ecEt7)
+[Phase 3](https://doi.org/10.1186/s13012-025-01423-w)
 
 [Phase 4](https://doi.org/10.1186/s43058-026-01071-1)
 

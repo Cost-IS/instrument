@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Costing implementation strategies (Cost-IS)</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -30,14 +33,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
 <script src="index_files/libs/quarto-html/anchor.min.js"></script>
 <link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="index_files/libs/bootstrap/bootstrap-bb462d781dde1847d9e3ccf7736099dd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="index_files/libs/bootstrap/bootstrap-dark-1c59215f878e034bd7426c637fa661ac.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="index_files/libs/bootstrap/bootstrap-bb462d781dde1847d9e3ccf7736099dd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="index_files/libs/bootstrap/bootstrap-efbb37e9afcc02144ebbc7afd12a776f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="index_files/libs/bootstrap/bootstrap-dark-7b2b20282c8da1075b52e56187ace71c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="index_files/libs/bootstrap/bootstrap-efbb37e9afcc02144ebbc7afd12a776f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <!-- Google tag (gtag.js) -->
 
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5ZQ7GZ62RZ"></script>
@@ -249,7 +252,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="nav-pills">
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-4-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-1" role="tab" aria-controls="tabset-4-1" aria-selected="true" href="">Cost-IS Templates</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-2" role="tab" aria-controls="tabset-4-2" aria-selected="false" href="">About</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-3" role="tab" aria-controls="tabset-4-3" aria-selected="false" href="">Worked example</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-4" role="tab" aria-controls="tabset-4-4" aria-selected="false" href="">Cost-IS Development</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-5" role="tab" aria-controls="tabset-4-5" aria-selected="false" href="">Other useful resources</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-6-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-6" role="tab" aria-controls="tabset-4-6" aria-selected="false" href="">Contact</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-7-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-7" role="tab" aria-controls="tabset-4-7" aria-selected="false" href="">ACTA 2025 Workshop 2</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-4-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-1" role="tab" aria-controls="tabset-4-1" aria-selected="true" href="">Cost-IS Templates</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-2" role="tab" aria-controls="tabset-4-2" aria-selected="false" href="">About</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-3" role="tab" aria-controls="tabset-4-3" aria-selected="false" href="">Worked example</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-4" role="tab" aria-controls="tabset-4-4" aria-selected="false" href="">Cost-IS Development</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-5" role="tab" aria-controls="tabset-4-5" aria-selected="false" href="">Other useful resources</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-6-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-6" role="tab" aria-controls="tabset-4-6" aria-selected="false" href="">Contact</a></li></ul>
 <div class="tab-content">
 <div id="tabset-4-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-4-1-tab">
 <p>Cost-IS is an instrument for costing implementation strategies in the healthcare setting.</p>
@@ -324,7 +327,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </div>
 <div id="tabset-2-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-3-tab">
-<p>Each unique resource is listed in Template 3. The entries in column ‘resource’ is restricted by a drop down menu containing what was listed in template 1. Template 1 can be completed iteratively as required by the project.</p>
+<p>Each unique resource is listed in Template 3. The entries in column ’resource’ is restricted by a drop down menu containing what was listed in template 1. Template 1 can be completed iteratively as required by the project.</p>
 <section id="labour-resource-1" class="level3">
 <h3 class="anchored" data-anchor-id="labour-resource-1">labour resource</h3>
 <p>Labour resources are listed as project roles. A resource category relevant to the project is applied to each role for granular analysis. The role’s position/ tile and annual salary is provided in the following columns. The hourly cost and hourly plus oncosts is automatically calcualted in the next columns. Adapt the number of hours and oncosts as required to your project.</p>
@@ -390,8 +393,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Read more about the development of Cost-IS in the following papers</p>
 <p><a href="https://doi.org/10.1186%2Fs13012-023-01261-8">Phase 1</a></p>
 <p><a href="https://doi.org/10.1186/s43058-024-00648-y">Phase 2</a></p>
-<p><a href="https://rdcu.be/ecEt7">Phase 3</a></p>
-<p><a href="https://www.researchsquare.com/article/rs-4873079/v1">Phase 4</a> Preprint</p>
+<p><a href="https://doi.org/10.1186/s13012-025-01423-w">Phase 3</a></p>
+<p><a href="https://doi.org/10.1186/s43058-026-01071-1">Phase 4</a></p>
 </section>
 <section id="future-development" class="level2">
 <h2 class="anchored" data-anchor-id="future-development">Future development</h2>
@@ -430,23 +433,10 @@ ul.task-list li input[type="checkbox"] {
 <p>On the <strong>first Wednesday of every month from 10am-11am (Brisbane, AEST)</strong>, Thomasina will be available for any questions relating to Cost-IS or costing implementation generally.</p>
 <section id="zoom-details" class="level4">
 <h4 class="anchored" data-anchor-id="zoom-details">Zoom details</h4>
-<p><strong>Link:</strong> <a href="https://qut.zoom.us/j/81151437760?pwd=bVZTA7dSsRugMhKjvEpcmb49WKwjRx.1&amp;from=addon">click here</a></p>
-<p><strong>Meeting ID:</strong> 811 5143 7760</p>
-<p><strong>Passcode:</strong> 963201</p>
-<p><em>updated link on 6th Aug 2025</em></p>
-</section>
-</section>
-</div>
-<div id="tabset-4-7" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-7-tab">
-<section id="cost-is-activity" class="level2">
-<h2 class="anchored" data-anchor-id="cost-is-activity">Cost-IS activity</h2>
-<p><a href="https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/ACTA25/BLANK_Case%20study%20Activity_v1.0.docx">Acitivity sheets</a></p>
-<p><a href="https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/ACTA25/BLANK_CostIS_EDDIE_ActivityAnswers_V1.0.xlsx">Blank Cost-IS template</a></p>
-<p>EDDIE+ trial <a href="https://doi.org/10.1186/s12877-023-04491-z">process evaluation</a></p>
-<section id="answers-to-cost-is-activity" class="level4">
-<h4 class="anchored" data-anchor-id="answers-to-cost-is-activity">Answers to Cost-IS activity</h4>
-<p><a href="https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/ACTA25/ANSWERS_Case%20study%20Activity_v1.0.docx">Acitivity sheets answers</a></p>
-<p><a href="https://github.com/Thomasina-Donovan/implementation-costing-instrument/raw/main/assets/ACTA25/ANSWERS_CostIS_EDDIE_ActivityAnswers_V1.0.xlsx">Completed Cost-IS template</a></p>
+<p><strong>Link:</strong> <a href="https://qut.zoom.us/j/88312342166?pwd=GSEf3xcvv4a57WMPXrzC8ncBavHosT.1&amp;from=addon">click here</a></p>
+<p><strong>Meeting ID:</strong> 883 1234 2166</p>
+<p><strong>Passcode:</strong> 991612</p>
+<p><em>updated link on 7th Oct 2026</em></p>
 </section>
 </section>
 </div>
@@ -522,13 +512,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
